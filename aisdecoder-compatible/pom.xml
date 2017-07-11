@@ -198,6 +198,5 @@
 				<filtering>true</filtering>
 			</resource>
 		</resources>
-		<!-- 分支合并测试 -->
 	</build>
 </project>
